@@ -1,0 +1,1 @@
+Use the following command in the python folder: python3 -m restb.examples.run
